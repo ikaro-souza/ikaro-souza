@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ikaro</h1>
-<h3 align="center">Just a guy who enjoys coding, designing and developing tech projects in general. IT FTW.</h3>
+<h3 align="center">Just a guy who enjoys coding, designing and developing tech projects in general.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikaro-souza" alt="ikaro-souza" /></a> </p>
 
