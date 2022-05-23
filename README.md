@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikaro-souza" alt="ikaro-souza" /></a> </p>
 
-- 🔭 I’m currently working on **Managing and architecturing the new app of the company I work for.**
+- 🔭 I’m currently working on **Architecturing a whitelabel banking app.**
 
-- 🌱 I’m currently learning **Automated testing.**
+- 🌱 I’m currently learning **Web development**
 
-- 👯 I’m looking to collaborate on **Anything Flutter related because I'm a Flutter fanboy.**
+- 👯 I’m looking to collaborate on **Anything web related.**
 
 - 🤝 I’m looking for help with **Testing and mobile/web development.**
 
